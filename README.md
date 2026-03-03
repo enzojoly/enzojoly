@@ -3,7 +3,6 @@
 ![volta](https://img.shields.io/badge/Volta-1F2937?style=flat&logo=volta&logoColor=white)
 ![pyenv](https://img.shields.io/badge/pyenv-306998?style=flat&logoColor=white)
 ![rbenv](https://img.shields.io/badge/rbenv-CC342D?style=flat&logoColor=white)
-![goenv](https://img.shields.io/badge/goenv-0
 ![pyenv](https://img.shields.io/badge/pyenv-306998?style=flat&logoColor=white) ![rbenv](https://img.shields.io/badge/rbenv-CC342D?style=flat&logoColor=white)
 ![rustup](https://img.shields.io/badge/rustup-000000?style=flat&logo=rust&logoColor=white)
 ![sdkman](https://img.shields.io/badge/SDKMAN-46A2F1?style=flat&logoColor=white)
